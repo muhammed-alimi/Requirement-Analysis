@@ -97,9 +97,3 @@ Acts as a blueprint for designing user interaction flows and helps QA teams deri
 
 Keeps the focus on how users will interact with the system, improving usability.
 
-
-
-
-
-
-
