@@ -96,4 +96,6 @@ Acts as a blueprint for designing user interaction flows and helps QA teams deri
 #### 5. Facilitates User-Centered Design
 
 Keeps the focus on how users will interact with the system, improving usability.
+![image alt](https://github.com/muhammed-alimi/Requirement-Analysis/blob/963e78f7c7619c2b589f58022e1693965895153b/alx-booking-uc.png%20drawio.drawio)
+
 
