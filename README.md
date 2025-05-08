@@ -96,7 +96,6 @@ Acts as a blueprint for designing user interaction flows and helps QA teams deri
 #### 5. Facilitates User-Centered Design
 
 Keeps the focus on how users will interact with the system, improving usability.
-https://drive.google.com/file/d/1sA3jPJhHvzfK8n3PZ1M_6RTR4lyiXL1d/view?usp=drive_link
 
 
 
