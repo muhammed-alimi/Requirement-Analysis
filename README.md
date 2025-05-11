@@ -96,6 +96,17 @@ Acts as a blueprint for designing user interaction flows and helps QA teams deri
 #### 5. Facilitates User-Centered Design
 
 Keeps the focus on how users will interact with the system, improving usability.
-![image alt](https://github.com/muhammed-alimi/Requirement-Analysis/blob/963e78f7c7619c2b589f58022e1693965895153b/alx-booking-uc.png%20drawio.drawio)
+
+![image](https://github.com/user-attachments/assets/6aff53a6-1a60-4543-83cc-7a26904e53f8)
+
+## Acceptance Criteria.
+#### The Importance of Acceptance Criteria in Requirement Analysis
+Acceptance criteria define clear, testable conditions that a product or feature must meet to be considered complete and successful. They serve as a bridge between stakeholders and developers, ensuring that expectations are aligned and understood from the start.
+### 📌 Acceptance Criteria:
+#### Booking Stored in System
+Upon successful checkout, the booking must be saved to the system's database and visible in the admin dashboard.
+
+
+
 
 
